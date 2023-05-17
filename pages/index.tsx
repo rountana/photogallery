@@ -19,7 +19,7 @@ export default function Home() {
       <link rel="icon" href='/favicon.ico'/> 
     </Head>
 
-    <Hero heading="Cosmo Arts" message="Experience out of the world "/>
+    <Hero heading="Cosmo Arts" message="Experience out of the world " cta="Contact us"/>
     <Slider slides={SliderData}/>
     <Instagram/>
     </div>
